@@ -2,7 +2,7 @@
 * [Introductie](./README.md)
 * [Algemene werking](algemene_werking.md)
 * Projecten
-  * [Tekenbot-2000](./projecten/tekenbot-2000.md)
+  * [Growing Gifs Bot](./projecten/growing_gifs_bot.md)
   * [Summer School St Polten]()
 * [Evaluatie](./evaluatie/README.md)
   * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)
