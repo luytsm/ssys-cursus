@@ -43,6 +43,26 @@ moeilijkste zijn aan heel het project. Dit is niks voor niks de focus voor het
 vak Smart Systems. De meeste resources zullen gewijd zijn aan het creëren van
 de robot.
 
-De robot zal complexe vormen moeten nateken 
+Op het einde van het project is de robot instaat de complexe vormen na tekenen.
+Het ultieme doel is live de complexe vormen kunnen nateken.
+
+Om deze robot te bouwen krijg je als groep een basiskit die  bestaat uit:
+- Robotchassis
+- Powerbank
+- Motordriver
+- Draadloze module
+- Servo motor
+- ...
+
+Deze componenten gecombineerd met de microcontroller kits die je groep reeds
+bevatten kan je een basis prototype bouwen van de robot.
+
+Vooraleer dat je aan je prototype(s) begint moet je een grondige analyse maken.
+Wat er juist in deze analyse moet staan kan je terugvinden onder
+*Deliverables / Analyse* in de cursus van Smart Systems.
+
+
+
+
 
 
