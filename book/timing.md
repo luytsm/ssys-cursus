@@ -4,24 +4,24 @@ Dit is de timing die gehanteerd word tijdens het project.
 
 |Week     |Beschrijving                                                       | 
 |---      |---                                                                | 
-|M1W1     |Opstart/Team indeling                                              | 
-|M1W2     |Analyse                                                            | 
-|M1W3     |Sprintmeeting                                                      |
-|M1W4     |                                                                   |
-|M1W5     |                                                                   |
-|M1W6     |Sprintmeeting                                                      |
-|M1EX     |                                                                   |
-|M2W1     |                                                                   |
-|M2W2     |Sprintmeeting                                                      | 
-|M2W3     |                                                                   | 
-|M2W4     |                                                                   |   
-|M2W5     |Sprintmeeting                                                      |
-|M2W6     |                                                                   | 
-|M2W7     |                                                                   |
-|M2EX     |Presentatie                                                        |
+|M3W1     |Opstart/Team indeling/Analyse/Start sprint #1                      | 
+|M3W2     |                                                                   | 
+|M3W3     |                                                                   |
+|M3W4     |Sprintmeeting/Start sprint #2                                      |
+|M3W5     |                                                                   |
+|M3W6     |                                                                   |
+|M3EX     |Tussentijdse presentatie/Start sprint #3                           |
+|M4W1     |                                                                   |
+|M4W2     |                                                                   | 
+|M4W3     |Sprintmeeting/Start sprint #4                                      | 
+|M4W4     |                                                                   |   
+|M4W5     |Sprintmeeting                                                      |
+|M4W6     |Event(Robot is klaar)                                              | 
+|M4W7     |                                                                   |
+|M4EX     |Finale presentatie                                                 |
 
 Hou zeker rekening mee met de oplever tijd voor jullie te ontwikkelen PCB. Zorg
-ervoor dat deze tijdig af is. Het kan natuurlijk 
+ervoor dat deze tijdig af is. 
 
 **Belangrijk:**
 * *Code wordt elke dag ingecheckt*
