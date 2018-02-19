@@ -28,11 +28,10 @@ Door de user stories te schrijven heb je de functionele analyse van je product g
 
 ## Taakverdeling
 
-Om alles tijdig klaar te krijgen zal  het noodzakelijk zijn het werk te verdelen. Een duidelijkeen correcte taakverdeling zal onontbeerlijk zijn
+Om alles tijdig klaar te krijgen zal  het noodzakelijk zijn het werk te verdelen. Een duidelijkeen correcte taakverdeling zal onontbeerlijk zijn. We gaan gebruik maken van Jira als projectmanagementtool. Hierin moet de taakverdeling duidelijk worden.
 
 ## Systeemspecificaties
 
-Totslot zal uit de hardware- en softwareanalyse zullen we systeemspecificaties kunnen opstellen die het mogelijk moeten maken om de juiste hardwareschekelingen te ontwerpen en de juiste programma's te ontwikkelen.
+Totslot zal uit de hardware- en softwareanalyse zullen we systeemspecificaties kunnen opstellen die het mogelijk moeten maken om de juiste hardwareschakelingen te ontwerpen en de juiste programma's te ontwikkelen.
 
 
-c
