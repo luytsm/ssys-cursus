@@ -20,7 +20,7 @@ De eenvoudigste manier om dit te doen is een blokschema van de op te bouwen hard
 
 Aangezien we de schakelingen opbouwen met programmeerbare hardware, zal het noodzakelijk zijn om naast een analyse van de hardware ook een analyse van de software op te stellen. De beste mannier om dit duidelijk weer te geven is door het maken van een aantal flow charts
 
-##User stories en Engineering Tasks
+## User stories en Engineering Tasks
 
 Voor je analyse moet je minimaal 10 user stories uitschrijven zoals gezien tijdens de lessen van dhr. Luc Peeters. Je breidt deze user stories uit met engineering tasks. Dit zijn kleine maar zeer specifieke deeltaken voor je user story. Je voorziet een totaal van 50 engineering tasks verdeelt over al je user stories. Meer info hierover: [klik hier](http://xp.c2.com/EngineeringTask.html)
 
