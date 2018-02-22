@@ -4,9 +4,9 @@ Dit is de timing die gehanteerd word tijdens het project.
 
 |Week     |Beschrijving                                                       | 
 |---      |---                                                                | 
-|M3W1     |Opstart/Team indeling/Analyse/Start sprint #1                      | 
-|M3W2     |                                                                   | 
-|M3W3     |                                                                   |
+|M3W1     |													       	         	| 
+|M3W2     |Opstart/Team indeling/Start sprint #1                              | 
+|M3W3     |Indienen analyse                                                   |
 |M3W4     |Sprintmeeting/Start sprint #2                                      |
 |M3W5     |                                                                   |
 |M3W6     |                                                                   |
