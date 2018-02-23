@@ -4,9 +4,9 @@ Dit is de timing die gehanteerd word tijdens het project.
 
 |Week     |Beschrijving                                                       | 
 |---      |---                                                                | 
-|M3W1     |													       	         	| 
-|M3W2     |Opstart/Team indeling/Start sprint #1                              | 
-|M3W3     |Indienen analyse                                                   |
+|M3W1     |													       	         	                        | 
+|M3W2     |Opstart/Team indeling/Start sprint #1/Indienen analyse             | 
+|M3W3     |                                                                   |
 |M3W4     |Sprintmeeting/Start sprint #2                                      |
 |M3W5     |                                                                   |
 |M3W6     |                                                                   |
@@ -27,4 +27,4 @@ ervoor dat deze tijdig af is.
 * *Code wordt elke dag ingecheckt*
 * *Deliverables indien mogelijk in Markdown*
 * *Deliverables staan in het vet*  
-* *De deadline voor elke week is altijd vrijdag om 23u59.*
+* *De deadline voor elke week is altijd zondag  om 23u59.*
