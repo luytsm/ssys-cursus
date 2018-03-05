@@ -7,7 +7,7 @@ In de analyse vinden we 2  elementen terug:
 - software  analyse 
 - taakverdeling
 - systeemspecifictaies
-``
+
 ## mindmap
 De mindmap is een figuur zoals in onderstaand voorbeeld waarin het project wordt opgedeeld in verschillende delen die elk op hun beurt eventueel verder worden opgedeeld tot we heel eenvoudige opdrachten hebben die kunnen  uitgevoerd worden. Hoe meer verfijnd de mindmap is opgesteld hoe gemakkelijker de uitvoering wordt en hoe beter de benodigde tijd en mankracht kan worden ingeschat.
 
