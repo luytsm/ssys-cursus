@@ -1,4 +1,7 @@
 {
-  "root": "./book"
+  "root": "./book",
+  "styles": { 
+    "website": "./book/styles/website.css"
+  }
 }
 
