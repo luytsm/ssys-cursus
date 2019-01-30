@@ -3,7 +3,12 @@
 * [Algemene werking](algemene_werking.md)
 * Projecten
   * [Growing Gifs Bot](./projecten/growing_gifs_bot.md)
+  * [Hololens Robotics](./projecten/hololens_robotics.md)
+  * [UWB Indoor Localisatie voor UAV/AGV](./projecten/uwb.md)
+  * [Lab Farm](./projecten/lab_farm.md)
+  * [Smart Locker](./projecten/smart_locker.md)
   * [Summer School St Polten]()
+  * [Sioux CCM Trophy]()
 * [Evaluatie](./evaluatie/README.md)
   * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)
   * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
