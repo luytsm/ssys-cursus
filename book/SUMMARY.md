@@ -21,4 +21,4 @@
   * [Portfolio](./deliverables/portfolio.md)
 * [Project Tools](./README.md)
   * [GitHub](./README.md)
-  * [ZenHub](./README.md)
+  * [Jira](./README.md)
