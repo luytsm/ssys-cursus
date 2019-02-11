@@ -14,10 +14,10 @@ Dit is de timing die gehanteerd word tijdens het project.
 |M4W1     |                                                                   |
 |M4W2     |                                                                   | 
 |M4W3     |Sprintmeeting/Start sprint #4                                      | 
-|M4W4     |                                                                   |   
-|M4W5     |Sprintmeeting                                                      |
-|M4W6     |Event(Robot is klaar)                                              | 
-|M4W7     |                                                                   |
+|M4W4     |Week Alkmaar                                                       | 
+|M4W5     |                                                                   |
+|M4W6     |                                                                   | 
+|M4W7     |Event(Robot is klaar)                                              | 
 |M4EX     |Finale presentatie                                                 |
 
 Hou zeker rekening mee met de oplever tijd voor jullie te ontwikkelen PCB. Zorg

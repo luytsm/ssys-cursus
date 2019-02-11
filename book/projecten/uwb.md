@@ -59,10 +59,11 @@ We gaan toch voor een agile werking met geplande meetings. Deze meetings zullen 
 
 
 
-*   PoC op rijdende robot
-*   PoC Drone
-*   Simulatie ROS
-*   Visualisatie App
+* PoC op rijdende robot
+* PoC Drone
+* Simulatie ROS
+* Visualisatie App
+* Ontwikkeling eigen kit
 
 
 # 5. Beschikbare resources:

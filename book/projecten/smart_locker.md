@@ -17,7 +17,7 @@ houtbewerking en CAD programma's.
 
 # 2. Team
 
-Voor de start van het project (tijdens Smart Systems) 4 personen:
+Voor de start van het project (tijdens Smart Systems) 2 personen:
 
 Verantwoordelijkheden:
 
@@ -83,8 +83,9 @@ enige vrijheid die afgetoetst kan worden doorheen het project.
 
 # 5. Beschikbare resources:
 
-*   Lasercutter 
-*   3D Printer
-*   PCB Machine
-*   Beperkt budget
-*   Materiaal beschikbaar in de 01.03
+* [Scriptie Fatih Kilic](https://github.com/AP-Elektronica-ICT/bap1718-fatihkilic12/blob/master/Scriptie/scriptie_kilic_fatih_2018.pdf)
+* Lasercutter
+* 3D Printer
+* PCB Machine
+* Beperkt budget
+* Materiaal beschikbaar in de 01.03
