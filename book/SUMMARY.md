@@ -12,7 +12,7 @@
 * [Evaluatie](./evaluatie/README.md)
   * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)
   * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
-* [Timing](./timing.md)
+* [Planning](./planning.md)
 * [Deliverables](./deliverables/README.md)
   * [Analyse](./deliverables/analyse.md)
   * [Sprintmeeting](./deliverables/sprintmeeting.md)
