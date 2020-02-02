@@ -1,9 +1,11 @@
-# Smart Systems
 * [Introductie](./README.md)
 * Projecten
-  * Enmo
+  * Environmental Monitoring
     * [Air Quality Sensor](./projecten/enmo/air-quality-sensor.md)
-  * Mirro
+    * [Lab Farm](./projecten/enmo/lab_farm.md)
+  * Smart Robotics
+    * [UWB](./projecten/srob/uwb.md)
+    * [MRR](./projecten/srob/mrr.md)
 
   * [Hololens Robotics](./projecten/hololens_robotics.md)
   * [UWB Indoor Localisatie voor UAV/AGV](./projecten/uwb.md)

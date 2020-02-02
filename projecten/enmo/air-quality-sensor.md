@@ -13,11 +13,11 @@ Op zich geen complexe materie om te meten. De moeilijkheid licht echter in het k
 
 Op AP en daarbuiten zijn er al wat geëxperimenteerd met de sensors rond de luchtkwaliteit. Het inovatieve gedeelte licht vooral rond het volledige draadloze aspect. Voordat je start met je analyse is het aangeraden om je hierin in te lezen. 
 
-# Teamleden 
+## Teamleden 
 
-Dit project wordt uitgevoerd door 2 studenten en valt onder het Environmental Monitoring team. 
+Dit project wordt uitgevoerd door het Environmental Monitoring team.
 
-# Verwachte output
+## Verwachte output
 (Dit is specifieke output, dit sluit de algemene output en of deliverables niet uit.)
  
  Voor dit project wordt een prototype in een oplage van 10 stuks verwacht. Het prototype heeft de volgende eigenschappen:
