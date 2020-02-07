@@ -6,10 +6,6 @@
   * Smart Robotics
     * [UWB](./projecten/srob/uwb.md)
     * [MRR](./projecten/srob/mrr.md)
-
-  * [Hololens Robotics](./projecten/hololens_robotics.md)
-  * [UWB Indoor Localisatie voor UAV/AGV](./projecten/uwb.md)
-  * [Lab Farm](./projecten/lab_farm.md)
 * [Evaluatie](./evaluatie/README.md)
   * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)
   * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
