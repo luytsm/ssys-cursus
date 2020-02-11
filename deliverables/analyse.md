@@ -154,55 +154,7 @@ analyse naar haalbare project scope en het definiëren van werk punten.
 Het grootste verschil zijn de User Stories. De requirements van een software
 project zijn afgeleid van functionele vereiste. Deze vereisten kijken uit een
 standpunt van de gebruiker en zijn de te schrijven als een User Story. Dit komt
-omdat de gebruiker een rol heeft in het project verhaal. 
-
-Maar vanuit een hardware standpunt zijn de niet functionele vereiste even
-belangrijk. Het is onmogelijke om een microcontroller applicatie te draaien als
-microcontroller niet van stroom is voorzien. (Stroom is altijd nodig om een
-applicatie te draaien. De infrastructuur die nodig is om een applicatie te
-draaien hoeft niet in de scope van een software project te zitten. Voor een
-software project kan men altijd gebruiken maken van IaaS of PaaS provider.)
-
-Hiervoor gaan we gebruik maken van een Technical Story. Hier beschrijft men de
-functionalteit zonder user perspectief. Een voorbeeld:
-
-<img style="display:block; margin: auto;" src="./deliverables/img/technical_story.png" alt="">
-
-Je mag zowel de klassieke user stories gebruiken als de technical stories. Elke
-story heeft wel de volgende vereisten:
-
-- Title
-- Narrative
-- Acceptance Criteria
-- Story Points (Estimate)
-
-**Hoe beginnen we dan de scope van het project te bepalen?**
-
-We gaan er van uit dat ontleding van de scope component gebaseerd is i.p.v.
-functionaliteit gebaseerd.
-
-Dit doen we omdat de componenten (blokken) in het systeem al bepaald zijn in de
-software -en hardware analyse.
-
-Dus voor elke blok in het systeem maken we een epic aan. Als er blokken zijn
-die voor hardware -en software samen neembaar zijn mag dit. Bij twijfel scheid
-je ze. Voorzie voor elke epic 5 a 7 stories. Deze moeten gedetailleerd zijn. 
-
-**Beschrijf je epics en stories op Jira**
-
-### Van analyse naar werkbeschrijving 
-
-Tijdens het project word er Scrum toegepast om het voor een Agile werking. De
-fijne details van dit framework is door dhr Peeters uitgelegd en worden hier
-niet herhaald. Omdat dit een hardware project is liggen de accenten een beetje
-anders. Scrum vind de oorsprong in Software projecten maar kan zeker in
-Hardware worden toegepast. Het doel van deze sectie is het vertalen van de
-analyse naar haalbare project scope en het definiëren van werk punten.
-
-Het grootste verschil zijn de User Stories. De requirements van een software
-project zijn afgeleid van functionele vereiste. Deze vereisten kijken uit een
-standpunt van de gebruiker en zijn de te schrijven als een User Story. Dit komt
-omdat de gebruiker een rol heeft in het project verhaal. 
+omdat de gebruiker een rol heeft in het project verhaal.
 
 Maar vanuit een hardware standpunt zijn de niet functionele vereiste even
 belangrijk. Het is onmogelijke om een microcontroller applicatie te draaien als
