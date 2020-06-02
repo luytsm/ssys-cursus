@@ -14,7 +14,7 @@
   * [Analyse](./deliverables/analyse.md)
   * [Sprintmeeting](./deliverables/sprintmeeting.md)
   * [Tussentijdse Presentatie](./deliverables/tussentijdse_presentatie.md)
-  * [Finale Presentatie](./deliverables/finale_presentatie.md)
+  * [Finale Presentatie](./deliverables/finale-presentatie.md)
   * [Product](./deliverables/product.md)
   * [Portfolio](./deliverables/portfolio.md)
 * [Project Tools](./README.md)
