@@ -1,11 +1,11 @@
 * [Introductie](./README.md)
-* Projecten
+<!--* Projecten
   * Environmental Monitoring
     * [Air Quality Sensor](./projecten/enmo/air-quality-sensor.md)
     * [Lab Farm](./projecten/enmo/lab_farm.md)
   * Smart Robotics
     * [UWB](./projecten/srob/uwb.md)
-    * [MRR](./projecten/srob/mrr.md)
+    * [MRR](./projecten/srob/mrr.md)-->
 * [Evaluatie](./evaluatie/README.md)
   * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)
   * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
