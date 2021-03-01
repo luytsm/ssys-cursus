@@ -82,9 +82,10 @@ N.V.T. Voor de presentatie, controle documentatie repo door docent
 
 
 ### Maakt gebruik van projectmanagementtool
-Presenteer de sprint m.b.v. de nodige metrieken: 
-- Burndown Chart
-- Velocity Chart
+Presenteer de sprint m.b.v. de nodige metrieken:
+
+- todo, doing, done
+- taken verdelen
 - ... 
 
 ### Maakt gebruik van versiecontrole software
