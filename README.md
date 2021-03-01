@@ -4,6 +4,7 @@ Smart Systems is een elektronica project vak. Je zal een probleemstelling opgele
 
 # Mogelijke projecten
 
+<!--
 In de afstudeerrichting IoT werken we rond 2 onderzoek thema's:
 
 * Smart Robotics
@@ -19,8 +20,16 @@ Afhankelijk van de noden van het onderzoek zal je gedurende het semester werken 
 * Environmental Monitoring
   * Integratie van Labfarm in een middelbare school
   * Ontwerp van luchtkwaliteitssensor voor PoA
-  * Ontwikkeling van XY camera monitoring systeem met AI
+  * Ontwikkeling van XY camera monitoring systeem met AI 
+-->
 
+
+-  Labfarm
+-  Air Quality Sensor
+-  Home management
+
+Meer informatie hierover vind je inde introductie presentatie op de leeromgeving
+# Algemene
 # Algemene werking
 
 Smart Systems is een groepsproject. Gedurende het semester zal je met een team werken voor een geslaagd project. We doen dit op een *Agile* manier. Er wordt in sprints gewerkt. Op het eind van het semester zijn er 4 sprints verlopen. De timing van de sprints kan je terugvinden in de planning [hier](./planning.md). De burndown charts van elke sprint zullen gebruikt worden om je project werking te evalueren. In Smart Systems gebruiken we in onze Agile methode buiten user stories voor creatie van issue ook technical stories. Wat deze juist zijn kan je terug verder in de cursus. De aangemaakte issues zullen ook doorwegen op de evaluatie van de project werking. De beschrijving van de issues zijn zeer kritisch. De aandacht hierbij ligt vooral op de beschrijving en de criteria of done van de issues. Alle vereisten kan je [hier]() terugvinden
