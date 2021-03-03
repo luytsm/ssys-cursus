@@ -29,6 +29,7 @@ Afhankelijk van de noden van het onderzoek zal je gedurende het semester werken 
 -  Home management
 
 Meer informatie hierover vind je inde introductie presentatie op de leeromgeving
+
 # Algemene
 # Algemene werking
 
